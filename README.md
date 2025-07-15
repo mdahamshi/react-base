@@ -1,8 +1,4 @@
-Here’s a clean and professional `README.md` you can use for your **React Base Template** repository (using Vite):
 
----
-
-````markdown
 # React Base Template ⚛️🚀
 
 A minimal, fast, and modern **React + Vite** starter template — perfect for bootstrapping new front-end projects.
@@ -26,7 +22,6 @@ cd react-base
 npm install
 npm run dev
 ```
-````
 
 ## 📁 Project Structure
 
@@ -91,9 +86,3 @@ GitHub: [@mdahamshi](https://github.com/mdahamshi)
 
 Enjoy building with React + Vite! ⚛️✨
 
-```
-
----
-
-Let me know if you want a version with **Tailwind**, **TypeScript**, or any other tools included.
-```
